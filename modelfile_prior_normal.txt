@@ -1,4 +1,5 @@
-    
+      # model file will be required to run JAGs.
+      
       model{
    
          ## for each row, i.e., each follow-up
